@@ -26,8 +26,11 @@ docs/                  ← GitHub Pages 根目錄
   weeks/2026-W38.html  單週摘要（ISO 週次）
   kb/                  Markdown 知識庫（一題一檔，可累積）
   kb/index.html        知識庫導覽
+  daily/               晨間三向新聞／市場與國際簡報（獨立站樹）
   assets/style.css     版型
 ```
+
+本倉庫承載兩套互不交叉連結的靜態站樹：神經醫學週報（`docs/index.html`、`weeks/`、`kb/`）與晨間簡報（`docs/daily/`）。
 
 創刊號是 **2026-W38**（2026-09-14 至 2026-09-20，對應 2026-09-19 前後約一至兩週）。
 
